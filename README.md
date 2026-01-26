@@ -1,7 +1,8 @@
-# Iterative Reasoning Graphs (IRG) — Protocol Specification
+# Iterative Reasoning Graphs (IRG)
 
-This repository contains the **authoritative specification** for **Iterative Reasoning Graphs (IRGs)**:  
-a protocol for persistent, executable, and auditable reasoning in AI systems.
+**A protocol for persistent, executable, and auditable reasoning in AI systems.**
+
+This repository contains the **authoritative specification** for **Iterative Reasoning Graphs (IRGs)**
 
 IRG defines a **cognitive control layer** that externalizes reasoning as structured, iterable graph state — distinct from model weights, prompts, or transient inference traces.
 
