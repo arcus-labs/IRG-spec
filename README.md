@@ -16,6 +16,10 @@ This repository is **spec-first**. It is not a product, SDK, or reference implem
 * [Appendix-B - FAQ](IRG-Appendix-B.md)
 * [Contribution Guide](Contribution-Guide.md)
 
+## NotebookLM Walkthrough
+
+* [Epistemic Integrity Evaluation: Protocol and Standardized Question Set](https://notebooklm.google.com/notebook/80df2dd9-8444-4a80-978a-9f1319fff8d7)
+
 ## What Is IRG?
 
 An **Iterative Reasoning Graph (IRG)** is a first-class representation of reasoning as an evolving graph of executable nodes.
