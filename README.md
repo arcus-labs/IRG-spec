@@ -18,7 +18,7 @@ This repository is **spec-first**. It is not a product, SDK, or reference implem
 
 ## NotebookLM Walkthrough
 
-* [Epistemic Integrity Evaluation: Protocol and Standardized Question Set](https://notebooklm.google.com/notebook/80df2dd9-8444-4a80-978a-9f1319fff8d7)
+* [Iterative Reasoning Graphs: Definitions and Protocols](https://notebooklm.google.com/notebook/80df2dd9-8444-4a80-978a-9f1319fff8d7)
 
 ## What Is IRG?
 
